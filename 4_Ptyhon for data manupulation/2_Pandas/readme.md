@@ -68,6 +68,8 @@ df3.tail()
 ```
 - info() - commumn types and summary
   ```
+  df3.info()
+  ```
 - shape - used know total number of row and collumn
 ```
 df3.shape
